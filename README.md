@@ -4,12 +4,19 @@ Makes simple UKA scoreplots.
 ## ARGUMENTS:
 
 --datapath 	path to folder where UKA tables are.
+
 --resultpath	path to result folder
+
 --color_type	Coloring on: "final_score" or "spec_score" (specificity score). Default: final_score
+
 --order_by	Order by: "final_score" or "spec_score" (specificity score"). Default: final_score
+
 --fscore_thr	Final Score threshold. Default: 1.3
+
 --w		width of resulting png. Default: 12
+
 --h		height of resulting png. Default: 10
+
 --max_num	max number of kinases to show on plot. Default: 20
 
 
